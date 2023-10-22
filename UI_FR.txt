@@ -1,0 +1,8 @@
+UI_FR = {
+    UI_RainWash_Multiplier = "Multiplicateur",
+    UI_RainWash_Multiplier_Tooltip = "Plus le multiplicateur est grand, plus le sang et la saleté sont éliminés rapidement sous la pluie.",
+    UI_RainWash_Vehicle = "Véhicule",
+    UI_RainWash_Vehicle_Tooltip = "Seul le véhicule dans lequel se trouve votre personnage et le véhicule qui lui est attaché sont nettoyés.",
+    UI_RainWash_RecentVehicle = "Dernier véhicule utilisé",
+    UI_RainWash_RecentVehicle_Tooltip = "Une fois sorti du véhicule, celui-ci sera également nettoyé.",
+}
